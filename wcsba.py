@@ -6,7 +6,7 @@ class MainWindow(QWidget):
     def __init__(self):
         super().__init__()
 
-        self.setWindowTitle("West Coast Swing Broadcast App)
+        self.setWindowTitle("West Coast Swing Broadcast App")
         self.setGeometry(100, 100, 400, 300)
 
         # Создаем виджет вкладок
