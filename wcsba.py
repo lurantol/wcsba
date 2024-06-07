@@ -104,6 +104,8 @@ class MainWindow(QWidget):
         layout.addLayout(buttons_layout)
         self.tab_main.setLayout(layout)
 
+#test blahblah 1212121
+
     def setup_competitions_tab(self):
         layout = QVBoxLayout()
 
